@@ -20,6 +20,7 @@ This branch also can be used to build C.W.M.-Recovery .
 
 Huge thanks to chrmhoffmann and Dr-Shadow for their work on MTK !!!
 
+===================================================
 
 Basic   | Spec Sheet
 -------:|:-------------------------
