@@ -1,7 +1,15 @@
 
 ALLViEW V1_ViPER : 
 
-	( a.k.a Fly IQ4410 Quad Phoenix / Gionee eLife E3 / GeneralMobile Discovery / QMobile A900 / BLU Life Play / Symphony W150 / P1 ARTEL / POLYTRON W8470 )
+	Fly IQ4410 Quad Phoenix 
+	Gionee eLife E3 
+	GeneralMobile Discovery 
+	QMobile A900 
+	BLU Life Play 
+	Symphony W150 
+	P1 ARTEL 
+	POLYTRON W8470
+
 ===================================================
 
 The ALLViEW V1_ViPER (codenamed _"v1-viper"_) is a phone from RE-SOLD By ALLViEW ( ViSUAL FAN ).
