@@ -14,7 +14,9 @@ ALLViEW V1_ViPER :
 
 The ALLViEW V1_ViPER (codenamed _"v1-viper"_) is a phone re-sold By ALLViEW / Visual Fan .
 
-This branch is for building CyanogenMod 11 (or Android KitKat 4.4 AOSP based roms) ROMS. Huge thanks to chrmhoffmann and Dr-Shadow for their work on MTK!
+This branch is for building CyanogenMod 11 (or Android KitKat 4.4 AOSP based roms) ROMS .
+This branch also can be used to build C.W.M.-Recovery .
+Huge thanks to chrmhoffmann and Dr-Shadow for their work on MTK !!!
 
 Basic   | Spec Sheet
 -------:|:-------------------------
